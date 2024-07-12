@@ -1,0 +1,2 @@
+.App{align-items:center;font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif}.App,.form{display:flex;flex-direction:column;justify-content:center}.form{align-items:flex-end;gap:.5rem;margin-bottom:2rem}.form__input{width:10rem}.Carousel{display:flex;flex-direction:column;justify-content:center;overflow:hidden}.Carousel__list{aspect-ratio:1;display:flex;list-style:none;padding:0}.Carousel__list li{aspect-ratio:1}.Carousel__button-container{display:flex;gap:.25rem;margin-inline:auto}
+/*# sourceMappingURL=main.b933f976.css.map*/
